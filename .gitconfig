@@ -1,0 +1,7 @@
+[user]
+	name = Ryan White
+	email = ryanwhite04@gmail.com
+[credential]
+	helper = store
+[core]
+	excludesfile = ~/.gitignore

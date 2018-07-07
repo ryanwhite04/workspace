@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.gitconfig
+!.bash_aliases
+# etc...
+
+# https://stackoverflow.com/questions/987142/make-gitignore-ignore-everything-except-a-few-files
