@@ -1,0 +1,75 @@
+[submodule "acya"]
+	path = acya
+	url = https://gitlab.com/ryanwhite04/acya.git
+[submodule "tabscii"]
+	path = tabscii
+	url = https://gitlab.com/ryanwhite04/tabscii.git
+[submodule "contour"]
+	path = contour
+	url = https://gitlab.com/ryanwhite04/contour.git
+[submodule "ryanwhite04.github.io"]
+	path = ryanwhite04.github.io
+	url = https://github.com/ryanwhite04/ryanwhite04.github.io.git
+[submodule "discord-bot"]
+	path = discord-bot
+	url = https://github.com/ryanwhite04/discord-bot.git
+[submodule "speech-samples"]
+	path = speech-samples
+	url = https://gitlab.com/ryanwhite04/speech-samples.git
+[submodule "speech-tagger"]
+	path = speech-tagger
+	url = https://github.com/ryanwhite04/speech-tagger.git
+[submodule "speech-viewer"]
+	path = speech-viewer
+	url = https://github.com/ryanwhite04/speech-viewer.git
+[submodule "regexp-selection"]
+	path = regexp-selection
+	url = https://github.com/ryanwhite04/regexp-selection.git
+[submodule "movies"]
+	path = movies
+	url = https://gitlab.com/ryanwhite04/movies.git
+[submodule "react-mines"]
+	path = react-mines
+	url = https://github.com/ryanwhite04/react-mines
+[submodule "react-songs"]
+	path = react-songs
+	url = https://gitlab.com/ryanwhite04/react-songs.git
+[submodule "insults"]
+	path = insults
+	url = https://gitlab.com/ryanwhite04/personalized-insults
+[submodule "thesis"]
+	path = thesis
+	url = https://gitlab.com/ryanwhite04/thesis.git
+[submodule "soundfonts"]
+	path = soundfonts
+	url = https://gitlab.com/ryanwhite04/soundfonts.git
+[submodule "chinese"]
+	path = chinese
+	url = https://gitlab.com/ryanwhite04/chinese.git
+[submodule "texpand"]
+	path = texpand
+	url = https://gitlab.com/ryanwhite04/texpand.git
+[submodule "flash-card"]
+	path = flash-card
+	url = https://gitlab.com/ryanwhite04/flash-card.git
+[submodule "ndb"]
+	path = ndb
+	url = https://gitlab.com/ryanwhite04/ndb.git
+[submodule "ass-parser"]
+	path = ass-parser
+	url = https://gitlab.com/ryanwhite04/ass-parser.git
+[submodule "typing-speed-test"]
+	path = typing-speed-test
+	url = https://gitlab.com/ryanwhite04/typing-speed-test.git
+[submodule "vim"]
+	path = vim
+	url = https://gitlab.com/ryanwhite04/vim.git
+[submodule "booth"]
+	path = booth
+	url = https://gitlab.com/ryanwhite04/booth.git
+[submodule "chinese-converter"]
+	path = chinese-converter
+	url = https://gitlab.com/ryanwhite04/chinese-converter.git
+[submodule "scrub-track"]
+	path = scrub-track
+	url = https://gitlab.com/ryanwhite04/scrub-track.git

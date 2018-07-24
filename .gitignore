@@ -1,9 +1,18 @@
 # Ignore everything
-*
+# *
+
+# Ignore all hidden files/folders
+.*
+
+# Ignore executables
+*.exe
+*.deb
+*.sh
 
 # But not these files...
 !.gitignore
 !.gitconfig
+!.gitmodules
 !.bash_aliases
 # etc...
 
