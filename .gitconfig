@@ -5,3 +5,8 @@
 	helper = store
 [core]
 	excludesfile = ~/.gitignore
+[alias]
+	ch = checkout
+	br = branch
+	co = commit
+	st = status
