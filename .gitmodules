@@ -76,3 +76,6 @@
 [submodule "ace-editor"]
 	path = ace-editor
 	url = https://github.com/ryanwhite04/ace-editor.git
+[submodule "tab-editor"]
+	path = tab-editor
+	url = https://github.com/ryanwhite04/tab-editor.git
