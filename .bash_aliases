@@ -10,7 +10,7 @@ alias dlbl='findmnt -rno label --target' # get disk label, probably ext4
 alias fuck='sudo !!'
 alias updg='sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
 alias show='alias && declare -F && printenv && npm list -g --depth=0'
-alias adds='_() { git submodule add -b . "$(cd $1 && git config --get remote.origin.url)" $1; }; _'
+alias adds='_() { git submodule add "$(cd $1 && git config --get remote.origin.url)" $1; }; _'
 alias live='pnpx live-server'
 alias http='pnpx http-server'
 
