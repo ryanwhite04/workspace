@@ -73,3 +73,6 @@
 [submodule "scrub-track"]
 	path = scrub-track
 	url = https://gitlab.com/ryanwhite04/scrub-track.git
+[submodule "ace-editor"]
+	path = ace-editor
+	url = https://github.com/ryanwhite04/ace-editor.git
