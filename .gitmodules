@@ -79,3 +79,9 @@
 [submodule "tab-editor"]
 	path = tab-editor
 	url = https://github.com/ryanwhite04/tab-editor.git
+[submodule "probable-octo-funicular"]
+	path = probable-octo-funicular
+	url = https://github.com/ryanwhite04/probable-octo-funicular.git
+[submodule "special-octo-journey"]
+	path = special-octo-journey
+	url = https://github.com/ryanwhite04/special-octo-journey.git
