@@ -13,6 +13,7 @@ alias show='alias && declare -F && printenv && npm list -g --depth=0'
 alias adds='_() { git submodule add "$(cd $1 && git config --get remote.origin.url)" $1; }; _'
 alias live='pnpx live-server'
 alias http='pnpx http-server'
+alias hugs='hugo server -D --bind 0.0.0.0 --baseURL=http://penguin.linux.test/'
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
